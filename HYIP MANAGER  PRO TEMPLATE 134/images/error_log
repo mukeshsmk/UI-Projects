@@ -1,0 +1,80 @@
+[18-Nov-2017 10:57:47 UTC] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "/home/coinmee/public_html/tmpl/support.tpl"  on line 120 "<td><img src="{"?a=show_validation_image&`$userinfo.session_name`=`$userinfo.session_id`&rand=`$userinfo.rand`"|encurl}">"  - Unexpected "<" <-- 
+  thrown in /home/coinmee/public_html/inc/libs/smarty3/sysplugins/smarty_internal_templatecompilerbase.php on line 120
+[18-Nov-2017 10:57:48 UTC] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "/home/coinmee/public_html/tmpl/support.tpl"  on line 120 "<td><img src="{"?a=show_validation_image&`$userinfo.session_name`=`$userinfo.session_id`&rand=`$userinfo.rand`"|encurl}">"  - Unexpected "<" <-- 
+  thrown in /home/coinmee/public_html/inc/libs/smarty3/sysplugins/smarty_internal_templatecompilerbase.php on line 120
+[18-Nov-2017 10:57:52 UTC] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "/home/coinmee/public_html/tmpl/support.tpl"  on line 120 "<td><img src="{"?a=show_validation_image&`$userinfo.session_name`=`$userinfo.session_id`&rand=`$userinfo.rand`"|encurl}">"  - Unexpected "<" <-- 
+  thrown in /home/coinmee/public_html/inc/libs/smarty3/sysplugins/smarty_internal_templatecompilerbase.php on line 120
+[18-Nov-2017 10:58:01 UTC] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "/home/coinmee/public_html/tmpl/support.tpl"  on line 120 "<td><img src="{"?a=show_validation_image&`$userinfo.session_name`=`$userinfo.session_id`&rand=`$userinfo.rand`"|encurl}">"  - Unexpected "<" <-- 
+  thrown in /home/coinmee/public_html/inc/libs/smarty3/sysplugins/smarty_internal_templatecompilerbase.php on line 120
+[18-Nov-2017 10:58:18 UTC] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "/home/coinmee/public_html/tmpl/support.tpl"  on line 120 "<td><img src="{"?a=show_validation_image&`$userinfo.session_name`=`$userinfo.session_id`&rand=`$userinfo.rand`"|encurl}">"  - Unexpected "<" <-- 
+  thrown in /home/coinmee/public_html/inc/libs/smarty3/sysplugins/smarty_internal_templatecompilerbase.php on line 120
+[18-Nov-2017 10:58:19 UTC] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "/home/coinmee/public_html/tmpl/support.tpl"  on line 120 "<td><img src="{"?a=show_validation_image&`$userinfo.session_name`=`$userinfo.session_id`&rand=`$userinfo.rand`"|encurl}">"  - Unexpected "<" <-- 
+  thrown in /home/coinmee/public_html/inc/libs/smarty3/sysplugins/smarty_internal_templatecompilerbase.php on line 120
+[18-Nov-2017 10:58:29 UTC] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "/home/coinmee/public_html/tmpl/support.tpl"  on line 120 "<td><img src="{"?a=show_validation_image&`$userinfo.session_name`=`$userinfo.session_id`&rand=`$userinfo.rand`"|encurl}">"  - Unexpected "<" <-- 
+  thrown in /home/coinmee/public_html/inc/libs/smarty3/sysplugins/smarty_internal_templatecompilerbase.php on line 120
+[18-Nov-2017 10:58:43 UTC] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "/home/coinmee/public_html/tmpl/support.tpl"  on line 120 "<td><img src="{"?a=show_validation_image&`$userinfo.session_name`=`$userinfo.session_id`&rand=`$userinfo.rand`"|encurl}">"  - Unexpected "<" <-- 
+  thrown in /home/coinmee/public_html/inc/libs/smarty3/sysplugins/smarty_internal_templatecompilerbase.php on line 120
+[18-Nov-2017 10:58:44 UTC] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "/home/coinmee/public_html/tmpl/support.tpl"  on line 120 "<td><img src="{"?a=show_validation_image&`$userinfo.session_name`=`$userinfo.session_id`&rand=`$userinfo.rand`"|encurl}">"  - Unexpected "<" <-- 
+  thrown in /home/coinmee/public_html/inc/libs/smarty3/sysplugins/smarty_internal_templatecompilerbase.php on line 120
+[18-Nov-2017 10:58:53 UTC] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "/home/coinmee/public_html/tmpl/support.tpl"  on line 120 "<td><img src="{"?a=show_validation_image&`$userinfo.session_name`=`$userinfo.session_id`&rand=`$userinfo.rand`"|encurl}">"  - Unexpected "<" <-- 
+  thrown in /home/coinmee/public_html/inc/libs/smarty3/sysplugins/smarty_internal_templatecompilerbase.php on line 120
+[21-Nov-2017 11:55:42 UTC] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template file 'home.tpl' <-- 
+  thrown in /home/coinmee/public_html/inc/libs/smarty3/sysplugins/smarty_internal_template.php on line 219
+[21-Nov-2017 11:58:41 UTC] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template file 'home.tpl' <-- 
+  thrown in /home/coinmee/public_html/inc/libs/smarty3/sysplugins/smarty_internal_template.php on line 219
+[22-Nov-2017 06:08:57 UTC] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "/home/coinmee/public_html/tmpl/news_box.tpl"  on line 6 "<div class="newcont">{$n.title| <span>escape:html</span>}</div>"  - Unexpected " <", expected one of: "id, name" , "@" <-- 
+  thrown in /home/coinmee/public_html/inc/libs/smarty3/sysplugins/smarty_internal_templatecompilerbase.php on line 6
+[22-Nov-2017 06:08:58 UTC] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "/home/coinmee/public_html/tmpl/news_box.tpl"  on line 6 "<div class="newcont">{$n.title| <span>escape:html</span>}</div>"  - Unexpected " <", expected one of: "id, name" , "@" <-- 
+  thrown in /home/coinmee/public_html/inc/libs/smarty3/sysplugins/smarty_internal_templatecompilerbase.php on line 6
+[22-Nov-2017 06:09:01 UTC] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "/home/coinmee/public_html/tmpl/news_box.tpl"  on line 6 "<div class="newcont">{$n.title| <span>escape:html</span>}</div>"  - Unexpected " <", expected one of: "id, name" , "@" <-- 
+  thrown in /home/coinmee/public_html/inc/libs/smarty3/sysplugins/smarty_internal_templatecompilerbase.php on line 6
+[24-Nov-2017 04:32:13 UTC] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template file 'home.tpl' <-- 
+  thrown in /home/coinmee/public_html/inc/libs/smarty3/sysplugins/smarty_internal_template.php on line 219
+[24-Nov-2017 05:19:46 UTC] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template file 'rateus.tpl' <-- 
+  thrown in /home/coinmee/public_html/inc/libs/smarty3/sysplugins/smarty_internal_template.php on line 219
+[24-Nov-2017 05:19:49 UTC] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template file 'rateus.tpl' <-- 
+  thrown in /home/coinmee/public_html/inc/libs/smarty3/sysplugins/smarty_internal_template.php on line 219
+[24-Nov-2017 12:40:07 UTC] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template file 'rateus.tpl' <-- 
+  thrown in /home/coinmee/public_html/inc/libs/smarty3/sysplugins/smarty_internal_template.php on line 219
+[24-Nov-2017 12:40:12 UTC] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template file 'rateus.tpl' <-- 
+  thrown in /home/coinmee/public_html/inc/libs/smarty3/sysplugins/smarty_internal_template.php on line 219
+[25-Nov-2017 05:49:37 UTC] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "/home/coinmee/public_html/tmpl/home.tpl"  on line 306 "{include file"  - Unexpected "file", expected one of: "}" <-- 
+  thrown in /home/coinmee/public_html/inc/libs/smarty3/sysplugins/smarty_internal_templatecompilerbase.php on line 306
+[25-Nov-2017 09:42:48 UTC] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template file 'rateus.tpl' <-- 
+  thrown in /home/coinmee/public_html/inc/libs/smarty3/sysplugins/smarty_internal_template.php on line 219
+[25-Nov-2017 10:43:53 UTC] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template file 'rateus.tpl' <-- 
+  thrown in /home/coinmee/public_html/inc/libs/smarty3/sysplugins/smarty_internal_template.php on line 219
+[25-Nov-2017 11:04:19 UTC] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template file 'rateus.tpl' <-- 
+  thrown in /home/coinmee/public_html/inc/libs/smarty3/sysplugins/smarty_internal_template.php on line 219
+[25-Nov-2017 11:05:07 UTC] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template file 'rateus.tpl' <-- 
+  thrown in /home/coinmee/public_html/inc/libs/smarty3/sysplugins/smarty_internal_template.php on line 219
+[25-Nov-2017 11:07:08 UTC] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template file 'rateus.tpl' <-- 
+  thrown in /home/coinmee/public_html/inc/libs/smarty3/sysplugins/smarty_internal_template.php on line 219
+[25-Nov-2017 11:07:26 UTC] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template file 'rateus.tpl' <-- 
+  thrown in /home/coinmee/public_html/inc/libs/smarty3/sysplugins/smarty_internal_template.php on line 219
+[05-Dec-2017 07:04:47 UTC] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "/home/coinmee/public_html/tmpl/login_box.tpl"  on line 246 "<li><a href=?a=referals class=menu" unclosed {else} tag <-- 
+  thrown in /home/coinmee/public_html/inc/libs/smarty3/sysplugins/smarty_internal_templatecompilerbase.php on line 246
+[05-Dec-2017 07:06:32 UTC] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "/home/coinmee/public_html/tmpl/login_box.tpl"  on line 212 "" unclosed {else} tag <-- 
+  thrown in /home/coinmee/public_html/inc/libs/smarty3/sysplugins/smarty_internal_templatecompilerbase.php on line 212
+[05-Dec-2017 07:09:30 UTC] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "/home/coinmee/public_html/tmpl/login_box.tpl"  on line 207 "" unclosed {else} tag <-- 
+  thrown in /home/coinmee/public_html/inc/libs/smarty3/sysplugins/smarty_internal_templatecompilerbase.php on line 207
+[05-Dec-2017 07:29:53 UTC] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "/home/coinmee/public_html/tmpl/account_main.tpl"  on line 291 ".ws-links:hover  {"  - Unexpected "{" <-- 
+  thrown in /home/coinmee/public_html/inc/libs/smarty3/sysplugins/smarty_internal_templatecompilerbase.php on line 291
+[05-Dec-2017 07:59:26 UTC] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "/home/coinmee/public_html/tmpl/faq.tpl"  on line 75 "{if $settings.def_paye"  - Unexpected "def_paye", expected one of: "}" <-- 
+  thrown in /home/coinmee/public_html/inc/libs/smarty3/sysplugins/smarty_internal_templatecompilerbase.php on line 75
+[05-Dec-2017 11:33:05 UTC] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "/home/coinmee/public_html/tmpl/support.tpl"  on line 173 "{i"  - Unexpected "i", expected one of: "}" <-- 
+  thrown in /home/coinmee/public_html/inc/libs/smarty3/sysplugins/smarty_internal_templatecompilerbase.php on line 173
+[06-Dec-2017 05:15:43 UTC] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "/home/coinmee/public_html/tmpl/signup.tpl"  on line 800 "<tr> <td><input type=text class=inptsreg size=5" unclosed {foreach} tag <-- 
+  thrown in /home/coinmee/public_html/inc/libs/smarty3/sysplugins/smarty_internal_templatecompilerbase.php on line 800
+[06-Dec-2017 05:35:23 UTC] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "/home/coinmee/public_html/tmpl/signup.tpl"  on line 280 "{literal}" missing or misspelled literal closing tag <-- 
+  thrown in /home/coinmee/public_html/inc/libs/smarty3/sysplugins/smarty_internal_templatecompilerbase.php on line 280
+[12-Dec-2017 08:56:36 UTC] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "/home/coinmee/public_html/tmpl/signup.tpl"  on line 66 "<!--<h3 id="formname_mainleft">Registration at {$settings.s"  - Unexpected "s", expected one of: "}" <-- 
+  thrown in /home/coinmee/public_html/inc/libs/smarty3/sysplugins/smarty_internal_templatecompilerbase.php on line 66
+[12-Dec-2017 08:56:39 UTC] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "/home/coinmee/public_html/tmpl/signup.tpl"  on line 66 "<!--<h3 id="formname_mainleft">Registration at {$settings.s"  - Unexpected "s", expected one of: "}" <-- 
+  thrown in /home/coinmee/public_html/inc/libs/smarty3/sysplugins/smarty_internal_templatecompilerbase.php on line 66
+[12-Dec-2017 08:57:51 UTC] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "/home/coinmee/public_html/tmpl/signup.tpl"  on line 284 "<td style="border:none;"" unclosed {if} tag <-- 
+  thrown in /home/coinmee/public_html/inc/libs/smarty3/sysplugins/smarty_internal_templatecompilerbase.php on line 284
+[12-Dec-2017 11:59:16 UTC] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "/home/coinmee/public_html/tmpl/signup.tpl"  on line 296 "{literal}" missing or misspelled literal closing tag <-- 
+  thrown in /home/coinmee/public_html/inc/libs/smarty3/sysplugins/smarty_internal_templatecompilerbase.php on line 296
+[12-Dec-2017 12:06:22 UTC] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "/home/coinmee/public_html/tmpl/signup.tpl"  on line 301 "{literal}" missing or misspelled literal closing tag <-- 
+  thrown in /home/coinmee/public_html/inc/libs/smarty3/sysplugins/smarty_internal_templatecompilerbase.php on line 301
