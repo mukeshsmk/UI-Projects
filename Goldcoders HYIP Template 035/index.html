@@ -1,0 +1,458 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<link rel="stylesheet" href="style.css" />
+<link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Rajdhani" rel="stylesheet">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Untitled Document</title>
+</head>
+
+<body>
+
+ <div id="wrapper" class="border">
+  		<div class="wrap">
+        	<div class="topcontainer">
+            	<div class="logopart">
+                	<div class="logo">
+                     <a href="#"> <img src="images/logo.png" /></a>
+                    </div>
+                    <div class="menu">
+                           
+                           <ul>
+                                <li><a href="#home">HOME</a></li>
+                                <li><a href="#news">LOGIN</a></li>
+                                <li><a href="#home">FAQ</a></li>
+                                <li><a href="#about">RULES</a></li>
+                                <li><a href="#contact">BANNERS</a></li>
+                                <li><a href="#news">RATE US</a></li> 
+                                <li><a href="#about">SUPPORT</a></li>
+                           </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+  </div>
+ 
+ 
+  <div class="clear"></div>
+  
+  
+<div id="wrapper" class="bg">
+  		<div class="wrap">
+         	<div class="login">
+             <div class="enter"> <a href="#">ENTER</a></div>
+               <div class="log"> <a href="#"><img src="images/username.png" class="img1" />Username</a> &nbsp <a href="#"><img src="images/password.png" class="img2"/>Password</a></div>
+              
+           </div>
+           
+           <div class="days">
+         <div class="heading">
+         	<div class="head1"><span>DAILY FOR 30 DAYS</span></div>
+            <div class="head1"><span>DAILY FOR 60 DAYS</span></div>
+            <div class="head1"><span>DAILY FOR 90 DAYS</span></div>
+         </div>
+           <div class="box1">
+             	<div class="green">
+                   <p>up to<br /><span>8%</span><br />Daily</p>
+                </div>
+                <div class="joinnow">
+                  <p>MInimum: $1<br />
+                     Minimum:$10<br />
+                     Principal Included</p>
+                     
+                      <a href="#"><span>JOIN</span> NOW</a>
+                </div>
+           </div>
+            <div class="box1">
+                <div class="green">
+                    <p>up to<br /><span>9%</span><br />Daily</p>
+                </div>
+                <div class="joinnow">
+                  <p>MInimum: $1<br />
+                     Minimum:$10<br />
+                     Principal Included</p>
+                     
+                      <a href="#"><span>JOIN</span> NOW</a>
+                </div>
+           </div>
+            <div class="box1" style="width:34%;">
+                <div class="green">
+                   <p>up to<br /><span>11%</span><br />Daily</p>
+                </div>
+                <div class="joinnow">
+                   <p>MInimum: $1<br />
+                     Minimum:$10<br />
+                     Principal Included</p>
+                     
+                   <a href="#"><span>JOIN</span> NOW</a>
+                </div>
+           </div>
+           
+           </div>
+        </div>
+</div>
+
+ <div class="clear"></div>
+  
+  
+    <div id="wrapper">
+  		<div class="wrap">
+          <div class="calcbg">
+          			
+                     <div class="textbox">
+<!--{literal}
+<script type="text/javascript" src="https://code.jquery.com/jquery-latest.min.js"></script>
+<script type="text/javascript" src="../images/js/calcs.js"></script>
+
+{/literal}
+-->
+
+
+<table style="line-height: 60px; font-family:Verdana, Arial, Helvetica, sans-serif;">
+
+<tr><td><span>Deposit amount($):</span></td><td><span>Deposit term:</span></td><td><span>Total profit %:</span></td><td><span>Total profit in $:</span></td></tr>
+<tr>
+<td><input id="inv_amount" value="10" name="limitedtextfield" type="text" onkeydown="limitText(this.form.limitedtextfield,this.form.countdown,8);" onkeyup="limitText(this.form.limitedtextfield,this.form.countdown,8);" maxlength="8" class="inpts1"  style="           min-width: 198px;
+    border: 1px solid #181a48;
+    outline: none;
+    padding: 12px 16px;
+    background: #181a48;
+    color: #fff;
+    margin-left: 65px;"/></td>
+
+
+
+<td><select id="calc_plan" class="opts" style="
+       min-width: 280px;
+    border: 1px solid transparent;
+    outline: none;
+    padding: 12px 10px;
+    background: transparent;
+    color: #04881a;
+    font-size: 18px;
+    margin-left: 47px;">
+
+ 		 <option value>Select plan</option>
+
+		<option value="1" class="opts">105% Daily for 4 days</option>
+
+		<option value="2" class="opts">1.5% Daily for 70 days</option>
+
+		<option value="3" class="opts">135% Daily for 12 days</option>
+        
+        <option value="4" class="opts">6% Daily for 38 days</option>
+        
+        
+				</select></td>
+                
+                
+  
+
+
+<td><input value="" id="assign_per" disabled="disabled" placeholder="Invest Amount" type="text" class="inpts1" style="         
+    background: transparent;
+    padding: 11px 9px 12px 0px;
+    min-width: 230px;
+    font-size: 14px;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 0px;
+    border: 1px solid transparent;
+    margin-bottom: 0px;;"/></td>
+
+
+
+
+
+<td><input value="" id="total_return" disabled="disabled" type="text" class="inpts1"  placeholder="Invest Amount" 
+style="       /
+    min-width: 230px;
+    font-size: 14px;
+    font-weight: bold;
+    color: #04881a;
+    text-align: center;
+    background: transparent;
+    border: 1px solid transparent;
+        margin-left: 20px;"></td>
+
+</tr>
+
+</table>
+
+          </div>
+        </div>
+    </div>
+    
+    
+    
+   <div class="clear"></div>
+  
+     <div id="wrapper">
+  		<div class="wrap"> 
+        	<div class="mission">
+                <div class="missionimg">
+                   <img src="images/img1.jpg" />
+                </div>
+                <div class="missioncontent">
+                      <div class="who"> 
+                           <div class="whoimg">
+                           		<img src="images/img2.png"/>
+                           </div>
+                           <div class="whocontent">
+                           <h1>WHO WE ARE</h1>
+                           <p>ALTCOIN ARBITRAGE LTD. is a cryptocurrency investment company established in 2017. The wide array of services we offer were specifically designed to assist Bitcoin holders in making good investment decisions.
+                           </p>
+                           </div>
+                       </div>
+                      <div class="who"> 
+                           <div class="whoimg">
+                             <img src="images/img3.png" />
+                           </div>
+                           <div class="whocontent">
+                           <h1>OUR MISSION</h1>
+                           <p>We have one main goal: to provide our customers with a unique platform for their cryptocurrency investment. We have employed the use of a cutting-edge platform with extensive infrastructure.</p>
+                           </div>
+                       </div>
+                </div>
+            </div>
+        </div>
+     </div>
+     
+     
+  <div class="clear"></div>
+  
+     <div id="wrapper">
+  		<div class="wrap"> 
+        	<div class="yellow">
+              <div class="yellow1">
+                 <img src="images/icon1.png" />   <br />  <br />
+                 <span>REGISTER A NEW ACCOUNT</span>
+                 <P>“Fill in all fields and access <BR />
+to investment tools”</P>
+              </div>
+              <div class="yellow1">
+                 <img src="images/icon2.png" />   <br />  <br />
+                 <span>REGISTER A NEW ACCOUNT</span>
+                 <P>“Fill in all fields and access <BR />
+to investment tools”</P>
+              </div>
+              <div class="yellow1">
+                  <img src="images/icon3.png" />   <br />  <br />
+                 <span>REGISTER A NEW ACCOUNT</span>
+                 <P>“Fill in all fields and access <BR />
+to investment tools”</P>
+              </div>
+              <div class="yellow1">
+                  <img src="images/icon4.png" />   <br />  <br />
+                 <span>REGISTER A NEW ACCOUNT</span>
+                 <P>“Fill in all fields and access <BR />
+to investment tools”</P>
+              </div>
+            </div>
+         
+     </div>
+     
+     
+      
+  <div class="clear"></div>
+  
+     <div id="wrapper">
+  		<div class="wrap">
+        	<div class="commissionbg">
+            	<div class="part1">
+                   <h4>5% Commission on Level 1</h4>
+                   <h5>3% Commission on Level 2</h5>
+                   <h6>1% Commission on Level 3</h6>
+                </div>
+                <div class="part2">
+                   <div class="upto">
+                    <p>UP TO<br /><span>9%</span></p>
+                   </div>
+                   <div class="affiliate">
+                     <p>Affiliate <br />Commissions</p>
+                   </div> 
+                   <div class="clear"></div>
+                  <div class="uptoaffiliate"><p>Gain amazing affiliate commission by referring others to Phenix Bit Limited & <br> spreading the word about us.</p></div>
+                  
+                  <a href="#">Know More</a>
+                  
+                </div>
+            </div>
+        </div>
+     </div> 
+       
+       
+   <div class="clear"></div>
+  
+     <div id="wrapper">
+  		<div class="wrap"> 
+        	<div class="video">
+                <div class="para">
+                    <div class="high">
+                        <div class="paraicon">
+                           <img src="images/icon5.png" />
+                         </div>
+                         <div class="paracontent">
+                           <span>High growth & substantial returns<span>
+<p>Bit Cash Limited is guided by an excellent team to ensure lofty yields & steady profits in the long run.</p>
+                         </div>
+                     </div>
+                     <div class="high">
+                        <div class="paraicon">
+                            <img src="images/icon6.png" style="margin-top: 20px;" />
+                         </div>
+                         <div class="paracontent">
+                            <span>Outstanding Upto 9% affiliate commission<span>
+<p>Earn splendid five level affiliate commission by referring others. Make us popular & we will make you rich!</p>
+                         </div>
+                     </div>
+                     <div class="high">
+                        <div class="paraicon">
+                            <img src="images/icon7.png" style="margin-top: 20px;" />
+                         </div>
+                         <div class="paracontent">
+                            <span>Strong Anti-Ddos protection<span>
+<p>Our company has robust security measures with a tough layer of defense to stop attacks of all types and sizes.</p>
+                         </div>
+                     </div>
+                     <div class="high">
+                        <div class="paraicon">
+                            <img src="images/icon8.png" style="margin-top: 20px;" />
+                         </div>
+                         <div class="paracontent">
+                            <span>Registered British company<span>
+<p>Bit cash Limited is officially registered in United Kingdom. It can be legally verified by using company number SC66559705..</p>
+                         </div>
+                     </div>
+                </div>
+                <div class="videoimg">
+                   <img src="images/video.png" />
+                </div>
+            </div>
+        </div>
+     </div>
+     
+     
+ 
+  <div class="clear"></div>
+  
+     <div id="wrapper">
+  		<div class="wrap"> 
+        	<div class="plan">
+            	<div class="plan1">
+                    <div class="planhead"> <h1>Last Deposit</h1> </div>
+                     <div class="plan2">
+                         
+                         <div class="amount"><p>$20</p></div><div class="empty"></div>   <div class="name">jesusmar10</div>
+                         <img src="images/line.png" />
+                         <div class="amount"><p>$20</p></div><div class="empty"></div>   <div class="name">jesusmar10</div>
+                         <img src="images/line.png" />
+                         <div class="amount"><p>$20</p></div><div class="empty"></div>   <div class="name">jesusmar10</div>
+                         <img src="images/line.png" />
+                         <div class="amount"><p>$20</p></div><div class="empty"></div>   <div class="name">jesusmar10</div>
+                         
+                      
+                     </div>
+                    
+                </div>
+                <div class="plan1">
+                    <div class="planhead"> <h1>Last Deposit</h1> </div>
+                     <div class="plan2">
+                         
+                         <div class="amount"><p>$20</p></div><div class="empty"></div>   <div class="name">jesusmar10</div>
+                         <img src="images/line.png" />
+                         <div class="amount"><p>$20</p></div><div class="empty"></div>   <div class="name">jesusmar10</div>
+                         <img src="images/line.png" />
+                         <div class="amount"><p>$20</p></div><div class="empty"></div>   <div class="name">jesusmar10</div>
+                         <img src="images/line.png" />
+                         <div class="amount"><p>$20</p></div><div class="empty"></div>   <div class="name">jesusmar10</div>
+                         
+                      
+                     </div>
+                    
+                </div>
+                <div class="plan1">
+                    <div class="planhead"> <h1>Last Deposit</h1> </div>
+                     <div class="plan2">
+                         
+                         <div class="amount"><p>$20</p></div><div class="empty"></div>   <div class="name">jesusmar10</div>
+                         <img src="images/line.png" />
+                         <div class="amount"><p>$20</p></div><div class="empty"></div>   <div class="name">jesusmar10</div>
+                         <img src="images/line.png" />
+                         <div class="amount"><p>$20</p></div><div class="empty"></div>   <div class="name">jesusmar10</div>
+                         <img src="images/line.png" />
+                         <div class="amount"><p>$20</p></div><div class="empty"></div>   <div class="name">jesusmar10</div>
+                         
+                      
+                     </div>
+                    
+                </div>
+            </div>
+        </div>
+     </div>
+      
+      
+  <div class="clear"></div>
+  
+     <div id="wrapper">
+  		<div class="wrap"> 
+         	<div class="payment">
+               <img src="images/payment.png" />
+            </div>
+        </div>
+     </div>
+     
+     
+     
+  <div class="clear"></div>
+  
+     <div id="wrapper">
+  		<div class="wrap"> 
+        	<div class="footer">
+            	<div class="footer1">
+                	<a href="#"><img src="images/logo.png" style="width: 330px;" /></a>
+                </div>
+                <div class="footer2">
+                             <ul>
+                                <li><img src="images/mark.png" /><a href="#home">About us</a></li>
+                                <li><img src="images/mark.png" /><a href="#news">How does it works</a></li>
+                                <li><img src="images/mark.png" /><a href="#home">Official exchanges</a></li>
+                                <li><img src="images/mark.png" /><a href="#about">Regional Representatives</a></li>
+                             </ul></div>
+               <div class="footer2">     
+                              <ul>
+                                <li><img src="images/mark.png" /><a href="#home">Get started</a></li><br />
+                                <li><img src="images/mark.png" /><a href="#news">Plam in detail</a></li>
+                                <li><img src="images/mark.png" /><a href="#home">Referal Program</a></li>
+                                <li><img src="images/mark.png" /><a href="#about">VIP investors</a></li>
+                             </ul></div>
+               <div class="footer2">
+                             <ul>
+                                <li><img src="images/mark.png" /><a href="#home">Privacy policy</a></li>
+                                <li><img src="images/mark.png" /><a href="#news">Terms of use</a></li><br />
+                                <li><img src="images/mark.png" /><a href="#home">FAQ</a></li><br />
+                                <li><img src="images/mark.png" /><a href="#about">ContactContact</a></li>
+                             </ul>
+                        </div>
+                           
+               
+            
+                <div class="footer3">
+                        <h1>OUR LOCATION</h1>
+                        <p> 39a Dartmouth Road<br />
+                            Forest Hill, London, SE23 3HN,<br />
+                            United Kingdom
+                        </p>
+                </div>
+             </div>
+                <div class="copy"> <p> © 2017 Sports BET is a private limited company registered in UK under company No:09500605   </p></div>
+                
+                <div class="footerimg">
+                	<img src="images/footerpayment.png" />
+                </div>
+ 
+        </div>
+     </div>
+</body>
+</html>
